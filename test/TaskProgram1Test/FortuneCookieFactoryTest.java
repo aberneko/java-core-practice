@@ -1,6 +1,6 @@
 package TaskProgram1Test;
-import Practice.TaskProgram1.FortuneConfig;
-import Practice.TaskProgram1.FortuneCookieFactory;
+import junittest.Practice.TaskProgram1.FortuneConfig;
+import junittest.Practice.TaskProgram1.FortuneCookieFactory;
 import org.junit.jupiter.api.*;
 
 import java.util.ArrayList;

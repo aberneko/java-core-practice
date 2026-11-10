@@ -1,7 +1,7 @@
 package TaskProgram1Test;
-import Practice.TaskProgram1.FortuneConfig;
-import Practice.TaskProgram1.FortuneCookieController;
-import Practice.TaskProgram1.FortuneCookieFactory;
+import junittest.Practice.TaskProgram1.FortuneConfig;
+import junittest.Practice.TaskProgram1.FortuneCookieController;
+import junittest.Practice.TaskProgram1.FortuneCookieFactory;
 import org.junit.jupiter.api.*;
 import org.junit.jupiter.params.ParameterizedTest;
 import org.junit.jupiter.params.provider.CsvSource;

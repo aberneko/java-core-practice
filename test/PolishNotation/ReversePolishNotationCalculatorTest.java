@@ -3,8 +3,10 @@ package PolishNotation;
 import java.util.ArrayDeque;
 import java.util.Deque;
 
-import Practice.PolishNotation.ReversePolishNotationCalculator;
+import junittest.Practice.PolishNotation.ReversePolishNotationCalculator;
 import org.junit.jupiter.api.Test;
+
+import static junittest.TestLibrary.assertEquals;
 import static org.junit.jupiter.api.Assertions.assertEquals;
 
 public class ReversePolishNotationCalculatorTest {

@@ -1,7 +1,7 @@
 package TaskProgram2Test;
 
-import Practice.TaskProgram2.PriceCalculator;
-import Practice.TaskProgram2.TransportType;
+import junittest.Practice.TaskProgram2.PriceCalculator;
+import junittest.Practice.TaskProgram2.TransportType;
 
 import org.junit.jupiter.api.Test;
 
