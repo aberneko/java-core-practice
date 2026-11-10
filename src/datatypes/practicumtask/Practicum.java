@@ -28,7 +28,7 @@ public class Practicum {
         } else {
             characterHelpersNumber = 0;
         }
-        practicumtask.Character character = new practicumtask.Character(
+        Character character = new Character(
                 characterGold,
                 characterSilver,
                 characterWood,
